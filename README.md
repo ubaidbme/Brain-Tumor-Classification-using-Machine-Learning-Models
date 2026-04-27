@@ -9,19 +9,13 @@ Table of Contents
 4. Data Preprocessing
 5. Feature Extraction for ML Models
 6. Machine Learning Models
-
-  6a. Support Vector Machine (SVM)
-  6b. Random Forest Classifier
-
-
-8. Deep Learning Models
-
-   7a. Convolutional Neural Network (CNN)
-
-   7b. Long Short-Term Memory (LSTM) Network
-
-9. Model Comparison and Analysis
-10. Detailed Analysis
-9a. Dataset Description and Rsults
-9b. Key Observations
-11. Conclusions
+ 6a. Support Vector Machine (SVM)
+ 6b. Random Forest Classifier
+7. Deep Learning Models
+ 7a. Convolutional Neural Network (CNN)
+ 7b. Long Short-Term Memory (LSTM) Network
+8. Model Comparison and Analysis
+9. Detailed Analysis
+ 9a. Dataset Description and Rsults
+ 9b. Key Observations
+10. Conclusions
