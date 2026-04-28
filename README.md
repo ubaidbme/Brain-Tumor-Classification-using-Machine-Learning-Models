@@ -1,7 +1,3 @@
-Here’s your report formatted specifically for a **GitHub README.md file** (clean Markdown, copy-paste ready 👇):
-
----
-
 # 🧠 Brain Tumor Classification Using Machine Learning Models
 
 ## 📌 Abstract
@@ -106,6 +102,9 @@ Evaluate performance using:
 * **SVM** showed strong and consistent performance
 * **KNN** performed moderately depending on parameter tuning
 * **Logistic Regression** provided baseline performance
+<img width="1564" height="590" alt="image" src="https://github.com/user-attachments/assets/6dbe6d3f-4563-4215-a86a-b2cb50241d64" />
+<img width="1564" height="590" alt="image" src="https://github.com/user-attachments/assets/c8ac219d-ec99-4f39-954f-a6164c5cbb0b" />
+<img width="394" height="104" alt="image" src="https://github.com/user-attachments/assets/9347543d-383a-4e2f-8de4-f45cc4036996" />
 
 👉 Ensemble methods like Random Forest showed better robustness and generalization.
 
