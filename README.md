@@ -126,5 +126,3 @@ The system highlights the potential of AI in assisting medical professionals wit
 * Optimize model parameters
 
 ---
-* Create a **project structure section**
-* Or make it look like a **top-tier GitHub portfolio project**
