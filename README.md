@@ -26,6 +26,8 @@ This project aims to develop an automated classification system using machine le
 
 ## 🗂️ Dataset
 
+https://drive.google.com/drive/folders/184h7_dNP2CVhRe2r8u11tawttPra7ezx?usp=sharing
+
 The dataset consists of labeled MRI brain images categorized into:
 
 * Tumor
